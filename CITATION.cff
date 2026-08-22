@@ -9,8 +9,18 @@ authors:
   - family-names: Zülfikar
     given-names: Abdullah Can
     affiliation: "Istanbul Technical University"
+version: 1.0.0
+date-released: 2026-08-22
 license: MIT
+doi: 10.5281/zenodo.22054351
 repository-code: "https://github.com/paulinelemenkova/precision-agriculture-pipeline"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22054351
+    description: "Concept DOI (always resolves to the latest version)"
+  - type: doi
+    value: 10.5281/zenodo.22054352
+    description: "Version DOI for release v1.0.0"
 keywords:
   - precision agriculture
   - spatially blocked cross-validation
