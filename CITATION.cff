@@ -10,7 +10,7 @@ authors:
     given-names: Abdullah Can
     affiliation: "Istanbul Technical University"
 license: MIT
-repository-code: "https://github.com/<your-username>/precision-agriculture-pipeline"
+repository-code: "https://github.com/paulinelemenkova/precision-agriculture-pipeline"
 keywords:
   - precision agriculture
   - spatially blocked cross-validation
