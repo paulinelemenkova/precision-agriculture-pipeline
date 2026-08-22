@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GMT session/state files
+gmt.history
+gmt.conf
+gmt_*.history
+
+# Generated figure outputs (regenerate with the scripts)
+fig01_study_area.*
+fig06_thematic_grid.*
+fig02_architecture.*
+fig08_iwsn_node_topology.*
+fig09_predictor_importance.*
+fig10_uniform_vs_sitespecific.*
+fig03_gis_database.*
+fig04_ai_workflow.*
+fig05_gis_workflow.*
+fig07_future_ecosystem.*
+fig11_agri_areas.*
+
+# Intermediate raster tiles produced by the map scripts from source rasters
+lc_*.tif
+*_tmp_*.tif
+country.grd
+country_int.grd

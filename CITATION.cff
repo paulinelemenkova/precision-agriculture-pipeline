@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and this repository."
+title: "Reproducible spatial decision-support pipeline for precision agriculture"
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+    affiliation: "Istanbul Technical University"
+  - family-names: Zülfikar
+    given-names: Abdullah Can
+    affiliation: "Istanbul Technical University"
+license: MIT
+repository-code: "https://github.com/<your-username>/precision-agriculture-pipeline"
+keywords:
+  - precision agriculture
+  - spatially blocked cross-validation
+  - Analytic Hierarchy Process
+  - ordinary kriging
+  - explainable artificial intelligence
+  - geographic information systems
+preferred-citation:
+  type: article
+  title: "Coupling Ensemble Learning, Multi-Criteria Weighting, and Geostatistical Interpolation: A Reproducible Spatial Decision-Support Pipeline for Precision Agriculture"
+  authors:
+    - family-names: Lemenkova
+      given-names: Polina
+      orcid: "https://orcid.org/0000-0002-5759-1089"
+    - family-names: Zülfikar
+      given-names: Abdullah Can
+  journal: "Acta agriculturae Slovenica"
+  year: 2026
+  notes: "Manuscript under review; update volume/pages/DOI on acceptance."

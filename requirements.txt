@@ -1,0 +1,21 @@
+# Core scientific stack (pipeline reference modules + Python figure scripts)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+
+# Machine learning and attribution (pipeline/train_blocked, tune_shap)
+scikit-learn>=1.3
+xgboost>=2.0
+shap>=0.44
+
+# Geostatistics and raster I/O (pipeline/kriging, sentinel2_prep, features)
+pykrige>=1.7
+rasterio>=1.3
+
+# Cartography (map figures and pipeline/irrigation_fao56)
+# NOTE: PyGMT also needs the GMT C library (>= 6.4) installed separately,
+#       most easily via conda (see environment.yml). pip installs the Python
+#       bindings only.
+pygmt>=0.10
+geopandas>=0.14
