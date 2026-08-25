@@ -2,10 +2,9 @@
 
 Code and reproducible figures for the manuscript:
 
-> **Coupling Ensemble Learning, Multi-Criteria Weighting, and Geostatistical
-> Interpolation: A Reproducible Spatial Decision-Support Pipeline for Precision
-> Agriculture.** Polina Lemenkova and Abdullah Can Zülfikar. *Acta agriculturae
-> Slovenica* (under review, 2026).
+> **A Python-Based Machine Learning Pipeline Coupling Sensor Networks, GIS, and
+> Geostatistics for Precision Agriculture.** Polina Lemenkova and Abdullah Can
+> Zülfikar. Manuscript under review, 2026.
 
 The paper specifies an integrated pipeline that couples five algorithm families
 in one six-layer architecture: robust quality control of wireless-sensor
@@ -136,12 +135,13 @@ inputs, using only `numpy` and `pandas`.
 ## Citing
 
 Please cite the article and this repository; see `CITATION.cff`. Update the
-volume, pages and DOI once the article is published.
+journal name, volume, pages and DOI once the article is published.
 
 ## License
 
 Code is released under the MIT License (`LICENSE`). The manuscript text and
-figures are distributed by the journal under CC BY 4.0.
+figures will be distributed under the open-access license of the publishing
+journal.
 
 ## Acknowledgements
 
