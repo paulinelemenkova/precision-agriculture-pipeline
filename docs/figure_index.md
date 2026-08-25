@@ -1,7 +1,7 @@
 # Figure index
 
 Mapping between the scripts in this repository, the image files they produce,
-and the figure numbers in the manuscript (Acta agriculturae Slovenica version).
+and the figure numbers in the manuscript.
 
 ## Figures in the paper
 
