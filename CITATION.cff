@@ -30,13 +30,12 @@ keywords:
   - geographic information systems
 preferred-citation:
   type: article
-  title: "Coupling Ensemble Learning, Multi-Criteria Weighting, and Geostatistical Interpolation: A Reproducible Spatial Decision-Support Pipeline for Precision Agriculture"
+  title: "A Python-Based Machine Learning Pipeline Coupling Sensor Networks, GIS, and Geostatistics for Precision Agriculture"
   authors:
     - family-names: Lemenkova
       given-names: Polina
       orcid: "https://orcid.org/0000-0002-5759-1089"
     - family-names: Zülfikar
       given-names: Abdullah Can
-  journal: "Acta agriculturae Slovenica"
   year: 2026
-  notes: "Manuscript under review; update volume/pages/DOI on acceptance."
+  notes: "Manuscript under review; update the journal, volume, pages and DOI on acceptance."
