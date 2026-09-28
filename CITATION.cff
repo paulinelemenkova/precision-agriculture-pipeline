@@ -6,9 +6,6 @@ authors:
     given-names: Polina
     orcid: "https://orcid.org/0000-0002-5759-1089"
     affiliation: "Istanbul Technical University"
-  - family-names: Zülfikar
-    given-names: Abdullah Can
-    affiliation: "Istanbul Technical University"
 version: 1.0.0
 date-released: 2026-08-22
 license: MIT
@@ -35,7 +32,5 @@ preferred-citation:
     - family-names: Lemenkova
       given-names: Polina
       orcid: "https://orcid.org/0000-0002-5759-1089"
-    - family-names: Zülfikar
-      given-names: Abdullah Can
   year: 2026
   notes: "Manuscript under review; update the journal, volume, pages and DOI on acceptance."

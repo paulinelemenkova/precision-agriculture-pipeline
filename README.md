@@ -3,8 +3,7 @@
 Code and reproducible figures for the manuscript:
 
 > **A Python-Based Machine Learning Pipeline Coupling Sensor Networks, GIS, and
-> Geostatistics for Precision Agriculture.** Polina Lemenkova and Abdullah Can
-> Zülfikar. Manuscript under review, 2026.
+> Geostatistics for Precision Agriculture.** Polina Lemenkova. Manuscript under review, 2026.
 
 The paper specifies an integrated pipeline that couples five algorithm families
 in one six-layer architecture: robust quality control of wireless-sensor
